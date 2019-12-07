@@ -40,8 +40,6 @@
 5918 BG   59.2985   18.1045     40    Bjorn Gimle
 5919 BG   59.2615   18.6206     30    Bjorn Gimle
 6226 SC   28.4861  -97.8194    110    Scott Campbell
-7031 SN   54.5940   -5.7130     10    SatNOGS No.31
-7335 SN   50.4850    4.8500    195    SatNOGS No.335
 7777 BY   38.1656   -2.3267   1608    Brad Young remote
 7778 BY  -31.2733  149.0644   1122    Brad Young SSO 
 7779 BY   32.9204 -105.5283   2225    Brad Young NM
